@@ -4,6 +4,7 @@
 	<groupId>com.ynet</groupId>
 	<artifactId>cloudbill-data-jpa-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
 	<properties>
 		<java.version>1.8</java.version>
 		<maven.compiler.encoding>UTF-8</maven.compiler.encoding>
